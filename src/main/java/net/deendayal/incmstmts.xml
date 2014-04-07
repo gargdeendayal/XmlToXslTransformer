@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incmstmts>
+   <stmt1 month="jan">
+      <year>2005</year>
+      <revenue>11837</revenue>
+      <costofrevenue>2239</costofrevenue>
+      <researchdevelopment>1591</researchdevelopment>
+      <salesmarketing>2689</salesmarketing>
+      <generaladmin>661</generaladmin>
+      <totaloperexpenses>7180</totaloperexpenses>
+      <operincome>4657</operincome>
+      <invincome>480</invincome>
+      <incbeforetaxes>5137</incbeforetaxes>
+      <taxes>1484</taxes>
+      <netincome>3653</netincome>
+   </stmt1>
+
+   <stmt2 month="feb">
+      <year>2004</year>
+      <revenue>10818</revenue>
+      <costofrevenue>1875</costofrevenue>
+      <researchdevelopment>1421</researchdevelopment>
+      <salesmarketing>2122</salesmarketing>
+      <generaladmin>651</generaladmin>
+      <totaloperexpenses>6069</totaloperexpenses>
+      <operincome>4749</operincome>
+      <invincome>420</invincome>
+      <incbeforetaxes>5169</incbeforetaxes>
+      <taxes>1706</taxes>
+      <netincome>3463</netincome>
+   </stmt2>
+</incmstmts>
